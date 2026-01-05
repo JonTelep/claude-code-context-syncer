@@ -1,0 +1,10 @@
+{
+	"id": "claude-context-syncer",
+	"name": "Claude Context Syncer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically sync Claude Code conversation contexts to your Obsidian vault for cross-device synchronization",
+	"author": "telep",
+	"authorUrl": "https://github.com/telep",
+	"isDesktopOnly": true
+}

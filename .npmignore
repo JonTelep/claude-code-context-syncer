@@ -1,0 +1,33 @@
+# Source files
+src/
+tsconfig.json
+esbuild.config.mjs
+
+# Development
+.git/
+.gitignore
+node_modules/
+*.log
+
+# Documentation (keep README in package)
+# README.md is intentionally not here
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test/
+tests/
+*.test.ts
+*.spec.ts
+
+# Build artifacts (only include main.js)
+*.js.map
+*.d.ts
