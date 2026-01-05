@@ -17,7 +17,7 @@
     "sync",
     "context"
   ],
-  "author": "telep",
+  "author": "Telep IO LLC",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.0",
